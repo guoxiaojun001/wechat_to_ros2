@@ -18,7 +18,7 @@
 2. cd ros2_ws
 3. mkdir src
 4. cd src
-5. git clone https://gitee.com/shen-jdi/wechat_to_ros2.git
+5. git clone https://gitee.com/jdi-shen/wechat_to_ros2.git
 6. cd ..
 7. colcon build
 8. source install/setup.bash

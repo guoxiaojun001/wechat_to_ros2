@@ -23,3 +23,10 @@
 7. colcon build
 8. source install/setup.bash
 9. ros2 run ros2_end main
+
+
+
+主要事项
+在运行ros程序时，需要加载环境变量“export LD_LIBRARY_PATH=/usr/local/lib”；
+所有源程序在gitee仓库，https://gitee.com/jdi-shen/wechat_to_ros2.git；
+运行ros2程序的ubuntu系统和手机都需要连上互联网；
